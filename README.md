@@ -2,7 +2,11 @@
 
 **CS Student | Building Systems, One Line at a Time**
 
-![Meme Title] https://github.com/BHAVANI200602/BHAVANI200602/blob/main/Hacking%20Product%20Hunt_%20How%20to%20Get%20Over%2010k%20Website%E2%80%A6.jpeg
+<p align="center">
+  <img src="https://github.com/BHAVANI200602/BHAVANI200602/blob/main/Hacking%20Product%20Hunt_%20How%20to%20Get%20Over%2010k%20Website%E2%80%A6.jpeg" 
+       width="500" 
+       alt="Programming Meme">
+</p>
 
 # Anyways
 
