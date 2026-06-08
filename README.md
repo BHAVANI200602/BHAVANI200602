@@ -1,4 +1,4 @@
-# Hi there, I'm Bhavani Shankar! 👋
+# Hi , I'm Bhavani Shankar! 👋
 
 ![Retro Coding GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
@@ -8,13 +8,13 @@ I'm a Computer Science student passionate about crafting robust end-to-end syste
 
 ---
 
-### 🌐 Connect with Me
+###  Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavani-02-24-2006-shankar/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ratgrey73@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages & Frameworks**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -48,7 +48,7 @@ I'm a Computer Science student passionate about crafting robust end-to-end syste
 
 ---
 
-### 📊 GitHub Stats
+###  My Stats
 
 ![Bhavani's GitHub Stats](https://github-readme-stats.shion.dev/api?username=BHAVANI200602&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
@@ -56,13 +56,6 @@ I'm a Computer Science student passionate about crafting robust end-to-end syste
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=BHAVANI200602&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-![Retro Terminal GIF](https://media.giphy.com/media/l3vR85Xzi3bY5b7nG/giphy.gif)
-
-*“Struggling is just debugging life — one commit at a time.”*
-
----
 
 **Currently Exploring:**
 - End-to-End System Design
