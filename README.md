@@ -78,15 +78,14 @@ Sigh...I'm an aspiring developer who struggles through cloud setups and system d
 
 
 **Currently Exploring:**
-- End-to-End System Design
-- Advanced Browser Automation
-- Vision Language Models
-- Cloud-Native Architectures
-
-  <img src="https://github.com/BHAVANI200602/BHAVANI200602/blob/main/download.jpeg" 
+<img src="https://github.com/BHAVANI200602/BHAVANI200602/blob/main/download.jpeg" 
        align="right" 
        width="120" 
        alt="Tech Meme">
 </p>
+- End-to-End System Design
+- Advanced Browser Automation
+- Vision Language Models
+- Cloud-Native Architectures
 
 Feel free to explore my repositories and connect if you're into building cool stuff! 🚀
