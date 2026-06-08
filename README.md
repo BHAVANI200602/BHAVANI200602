@@ -61,6 +61,12 @@ Sigh...I'm an aspiring developer who struggles through cloud setups and system d
 ---
 
 ###  My Stats
+<p align="right">
+  <img src="https://github.com/BHAVANI200602/BHAVANI200602/blob/main/download%20(1).jpeg" 
+       align="right" 
+       width="320" 
+       alt="Tech Meme">
+</p>
 
 ![Bhavani's GitHub Stats](https://github-readme-stats.shion.dev/api?username=BHAVANI200602&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
