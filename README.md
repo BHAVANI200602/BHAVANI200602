@@ -67,7 +67,7 @@ Sigh...I'm an aspiring developer who struggles through cloud setups and system d
        width="320" 
        alt="Tech Meme">
   <br>
-  <strong>(Your reaction be like: )</strong>
+  <strong>Your reaction would be:</strong>
 </p>
 
 ![Bhavani's GitHub Stats](https://github-readme-stats.shion.dev/api?username=BHAVANI200602&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
@@ -82,5 +82,11 @@ Sigh...I'm an aspiring developer who struggles through cloud setups and system d
 - Advanced Browser Automation
 - Vision Language Models
 - Cloud-Native Architectures
+
+  <img src="https://github.com/BHAVANI200602/BHAVANI200602/blob/main/download.jpeg" 
+       align="left" 
+       width="320" 
+       alt="Tech Meme">
+</p>
 
 Feel free to explore my repositories and connect if you're into building cool stuff! 🚀
