@@ -1,8 +1,10 @@
 # Hi , I'm Bhavani Shankar! 👋
 
-
-
 **CS Student | Building Systems, One Line at a Time**
+
+![Meme Title] https://github.com/BHAVANI200602/BHAVANI200602/blob/main/Hacking%20Product%20Hunt_%20How%20to%20Get%20Over%2010k%20Website%E2%80%A6.jpeg
+
+# Anyways
 
 I'm a Computer Science student passionate about crafting robust end-to-end systems. I thrive on the challenge of learning complex topics like **system design**, **cloud architecture**, **operating systems**, and **DSA**. Currently diving deep into **browser automation** with Playwright, exploring **State of the Art (SOTA)** techniques, and experimenting with **Vision LLMs**.
 
