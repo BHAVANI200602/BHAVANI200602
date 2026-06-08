@@ -8,9 +8,9 @@
        alt="Programming Meme">
 </p>
 
-# Anyways
+# Anyways...
 
-I'm a Computer Science student passionate about crafting robust end-to-end systems. I thrive on the challenge of learning complex topics like **system design**, **cloud architecture**, **operating systems**, and **DSA**. Currently diving deep into **browser automation** with Playwright, exploring **State of the Art (SOTA)** techniques, and experimenting with **Vision LLMs**.
+Sigh...I'm an aspiring developer who struggles through cloud setups and system designs. When it comes to coding, I absolutely suck at it. But I want to build something of my own; seeing it work and watching others use it makes me happy :)
 
 ---
 
