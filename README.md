@@ -84,8 +84,8 @@ Sigh...I'm an aspiring developer who struggles through cloud setups and system d
 - Cloud-Native Architectures
 
   <img src="https://github.com/BHAVANI200602/BHAVANI200602/blob/main/download.jpeg" 
-       align="left" 
-       width="220" 
+       align="right" 
+       width="120" 
        alt="Tech Meme">
 </p>
 
