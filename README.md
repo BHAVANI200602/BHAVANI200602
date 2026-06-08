@@ -66,6 +66,8 @@ Sigh...I'm an aspiring developer who struggles through cloud setups and system d
        align="right" 
        width="320" 
        alt="Tech Meme">
+  <br>
+  <strong>(Your reaction be like: )</strong>
 </p>
 
 ![Bhavani's GitHub Stats](https://github-readme-stats.shion.dev/api?username=BHAVANI200602&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
@@ -81,4 +83,4 @@ Sigh...I'm an aspiring developer who struggles through cloud setups and system d
 - Vision Language Models
 - Cloud-Native Architectures
 
-Feel free to explore my repositories and connect if you're into systems, automation, or building cool stuff! 🚀
+Feel free to explore my repositories and connect if you're into building cool stuff! 🚀
