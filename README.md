@@ -24,7 +24,7 @@ Sigh...I'm an aspiring developer who struggles through cloud setups and system d
 <p align="center">
   <img src="https://github.com/BHAVANI200602/BHAVANI200602/blob/main/Yui%20Hirasawa.jpeg" 
        align="right" 
-       width="320" 
+       width="220" 
        alt="Tech Meme">
 </p>
 
