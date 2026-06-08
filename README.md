@@ -1,6 +1,6 @@
 # Hi , I'm Bhavani Shankar! 👋
 
-![Retro Coding GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
 
 **CS Student | Building Systems, One Line at a Time**
 
