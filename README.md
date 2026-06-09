@@ -44,7 +44,7 @@ Sigh...I'm an aspiring developer who struggles through cloud setups and system d
 
 **Others**: Git, GitHub Actions, TailwindCSS, Vite, Figma, NumPy, Pandas, and more.
 
-    </td>
+  </td>
     <td valign="top" width="25%">
       <img src="https://github.com/BHAVANI200602/BHAVANI200602/blob/main/Yui%20Hirasawa.jpeg?raw=true" width="100%" alt="Tech Meme">
     </td>
