@@ -2,7 +2,7 @@
 
 **CS Student | Building Systems, One Line at a Time**
 
-<p align="center">
+<table align="center">
   <tr>
     <td>
       <img src="https://github.com/BHAVANI200602/BHAVANI200602/blob/main/Hacking%20Product%20Hunt_%20How%20to%20Get%20Over%2010k%20Website%E2%80%A6.jpeg" 
@@ -10,7 +10,7 @@
        alt="Programming Meme">
     </td>
   </tr>
-</p>
+</table>
 
 # Anyways...
 
