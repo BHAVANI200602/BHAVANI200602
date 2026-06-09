@@ -20,13 +20,9 @@ Sigh...I'm an aspiring developer who struggles through cloud setups and system d
 
 ---
 
-###  Tech Stack
-<p align="center">
-  <img src="https://github.com/BHAVANI200602/BHAVANI200602/blob/main/Yui%20Hirasawa.jpeg" 
-       align="right" 
-       width="220" 
-       alt="Tech Meme">
-</p>
+### 🛠️ Tech Stack
+
+<img src="https://github.com/BHAVANI200602/BHAVANI200602/blob/main/Yui%20Hirasawa.jpeg?raw=true" align="right" width="250" alt="Tech Meme">
 
 ### 💻 Languages & Frameworks
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
@@ -41,7 +37,6 @@ Sigh...I'm an aspiring developer who struggles through cloud setups and system d
 ![Playwright](https://img.shields.io/badge/playwright-%232EAD33?style=flat&logo=playwright&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=flat&logo=Puppeteer&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 
 **Others**: Git, GitHub Actions, TailwindCSS, Vite, Figma, NumPy, Pandas, and more.
-
 ---
 
 ###  My Stats
