@@ -39,21 +39,18 @@ Sigh...I'm an aspiring developer who struggles through cloud setups and system d
 **Others**: Git, GitHub Actions, TailwindCSS, Vite, Figma, NumPy, Pandas, and more.
 ---
 
-###  My Stats
-<p align="right">
-  <img src="https://github.com/BHAVANI200602/BHAVANI200602/blob/main/download%20(1).jpeg" 
-       align="right" 
-       width="320" 
-       alt="Tech Meme">
-  <br>
-  <strong>Your reaction would be:</strong>
-</p>
+### 📊 My Stats
+
+<img src="https://github.com/BHAVANI200602/BHAVANI200602/blob/main/download%20(1).jpeg?raw=true" align="right" width="300" alt="Tech Meme">
 
 ![Bhavani's GitHub Stats](https://github-readme-stats.shion.dev/api?username=BHAVANI200602&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=BHAVANI200602&theme=dark&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=BHAVANI200602&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<br clear="right"/>
+<p align="right"><strong>Your reaction would be:</strong></p>
 
 
 **Currently Exploring:**
