@@ -22,7 +22,13 @@ Sigh...I'm an aspiring developer who struggles through cloud setups and system d
 
 ### 🛠️ Tech Stack
 
-<img src="https://github.com/BHAVANI200602/BHAVANI200602/blob/main/Yui%20Hirasawa.jpeg?raw=true" align="right" width="250" alt="Tech Meme">
+<table align="right">
+  <tr>
+    <td>
+      <img src="https://github.com/BHAVANI200602/BHAVANI200602/blob/main/Yui%20Hirasawa.jpeg?raw=true" width="250" alt="Tech Meme">
+    </td>
+  </tr>
+</table>
 
 ### 💻 Languages & Frameworks
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
