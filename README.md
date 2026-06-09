@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Anyways...
+## Anyways...
 
 > *Sigh... I'm an aspiring developer who struggles through cloud setups and system designs. When it comes to coding, I absolutely suck at it. But I want to build something of my own; seeing it work and watching others use it makes me happy :)*
 
