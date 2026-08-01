@@ -12,7 +12,7 @@
 
 
 
-> I'm an aspiring developer who struggles through cloud setups and system designs. When it comes to coding, I absolutely suck at it. But I want to build something of my own; seeing it work and watching others use it makes me happy :)*
+> I'm an aspiring developer who struggles through cloud setups and system designs*
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhavani-02-24-2006-shankar/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
