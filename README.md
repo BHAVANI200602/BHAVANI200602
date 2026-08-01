@@ -11,7 +11,7 @@
 ---
 
 
-<p align="center">I'm an aspiring developer who struggles through cloud setups and system designs*</p>
+<p align="center">I'm an aspiring developer who struggles through cloud setups and system designs</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhavani-02-24-2006-shankar/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
