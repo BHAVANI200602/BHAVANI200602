@@ -67,5 +67,5 @@
 ---
 
 <p align="center">
-  Feel free to explore my repositories and connect if you're into building cool stuff! 🚀
+  Feel free to explore my repositories and connect if you're into building cool stuff!
 </p>
