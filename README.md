@@ -54,9 +54,8 @@
 
 ## 📊 My Stats
 
-| 📈 GitHub Metrics | 🎭 Your reaction would be: |
-| :--- | :---: |
-| ![Bhavani's GitHub Stats](https://github-readme-stats.shion.dev/api?username=BHAVANI200602&theme=dark&hide_border=false&include_all_commits=true&count_private=true) <br><br> ![GitHub Streak](https://streak-stats.demolab.com/?user=BHAVANI200602&theme=dark&hide_border=false) <br><br> ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=BHAVANI200602&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | <br><br><img src="https://github.com/BHAVANI200602/BHAVANI200602/blob/main/download%20(1).jpeg?raw=true" width="300" alt="Tech Meme" style="border-radius: 8px;"> |
+| 📈 GitHub Metrics |
+| ![Bhavani's GitHub Stats](https://github-readme-stats.shion.dev/api?username=BHAVANI200602&theme=dark&hide_border=false&include_all_commits=true&count_private=true) <br><br> ![GitHub Streak](https://streak-stats.demolab.com/?user=BHAVANI200602&theme=dark&hide_border=false) <br><br> ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=BHAVANI200602&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
 <br />
 
