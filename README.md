@@ -1,6 +1,6 @@
 # Hi, I'm Bhavani Shankar! 👋
 
-**CS Student | Building Systems, One Line at a Time**
+**CS Student | Building Systems**
 
 <br />
 
